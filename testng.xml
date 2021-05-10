@@ -1,0 +1,10 @@
+<suite name = "book-flight-modle">
+	<test name = "book-flight-2">
+		<classes>
+			<class name = "com.udemy.selenium_docker.seleniumdocker.BookFlightTest">
+			</class>
+		</classes>
+	
+	</test>
+
+</suite>
